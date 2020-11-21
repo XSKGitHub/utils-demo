@@ -1,3 +1,11 @@
+<!--
+ * @Description: 
+ * @Version: 1.0
+ * @Autor: x-one
+ * @Date: 2020-11-12 10:22:45
+ * @LastEditors: x-one
+ * @LastEditTime: 2020-11-19 17:07:06
+-->
 
 # 工具集项目
 
@@ -5,7 +13,7 @@
 
 ### 1.1 Git管理
 
->.gitignore设置忽略目录或文件规则
+    .gitignore设置忽略目录或文件规则
 
  symbol | description | demo
  -|-|-
@@ -20,4 +28,14 @@
 
 ## 二、Itext 操作PDF
 
-需要注意 itextpdf 有开源协议，itext没有
+    需要注意 itextpdf 有开源协议，itext没有
+
+### 2.1 文档对象
+
+    设置基本属性：版本、标题、作者、主题、关键字、创建者等等
+
+### 2.2 页面对象
+
+### 2.3 内容对象
+
+### 2.4 四层结构

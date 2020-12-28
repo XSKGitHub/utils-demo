@@ -6,7 +6,6 @@
  * @LastEditors: x-one
  * @LastEditTime: 2020-11-19 17:07:06
 -->
-
 # 工具集项目
 
 ## 一、项目配置管理
@@ -15,7 +14,7 @@
 
     .gitignore设置忽略目录或文件规则
 
- symbol | description | demo
+symbol|description|demo 
  -|-|-
  # | 用于注释 |
  *|匹配除'\'之外的多个所有字符|*.txt ： 所有的txt文件
